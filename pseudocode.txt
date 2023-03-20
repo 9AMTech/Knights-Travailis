@@ -1,0 +1,11 @@
+pseudocode
+
+for each new possible move, we need to iterate and see if it's in visited array
+if its in visited we need to skip the node
+if its not in visited we need to add the node to the queue
+
+
+TODO 
+create priority queue
+
+create last visited log
